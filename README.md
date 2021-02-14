@@ -14,7 +14,7 @@ Finally, I will have a visualization that compares the cost to how much a compan
 
 
 ## Sketches
-
+![sketches](sketch01.jpg)
 
 ## Data
 
